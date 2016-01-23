@@ -1,4 +1,4 @@
-(defproject clj-twilio "0.2.1"
+(defproject atlantique/clj-twilio "0.2.1-SNAPSHOT"
   :description "Clojure Twilio API"
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [prxml "1.3.0"]]
